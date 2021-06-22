@@ -1,0 +1,56 @@
+{
+    "size" : {
+        "x": 100, 
+        "y": 100
+    },
+    "organisms": [
+        {
+            "type" : "block",
+            "position": {
+                "x": 22, 
+                "y": 22
+            }
+        
+        },
+        {
+            "type" : "beehive",
+            "position": {
+                "x": 10, 
+                "y": 12
+            }
+        
+        },
+        {
+            "type" : "beehive",
+            "position": {
+                "x": 40, 
+                "y": 12
+            }
+        
+        },
+        {
+            "type" : "glider",
+            "position": {
+                "x": 60, 
+                "y": 20
+            }
+        
+        },
+        {
+            "type" : "spaceship_4",
+            "position": {
+                "x": 70, 
+                "y": 30
+            }
+        
+        },
+        {
+            "type" : "tub",
+            "position": {
+                "x": 10, 
+                "y": 60
+            }
+        
+        }
+    ]
+}

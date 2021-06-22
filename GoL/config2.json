@@ -1,0 +1,56 @@
+{
+    "size" : {
+        "x": 100, 
+        "y": 100
+    },
+    "organisms": [
+        {
+            "type" : "block",
+            "position": {
+                "x": 22, 
+                "y": 22
+            }
+        
+        },
+        {
+            "type" : "beehive",
+            "position": {
+                "x": 26, 
+                "y": 12
+            }
+        
+        },
+        {
+            "type" : "loaf",
+            "position": {
+                "x": 30, 
+                "y": 12
+            }
+        
+        },
+        {
+            "type" : "glider",
+            "position": {
+                "x": 20, 
+                "y": 5
+            }
+        
+        },
+        {
+            "type" : "glider",
+            "position": {
+                "x": 20, 
+                "y": 8
+            }
+        
+        },
+        {
+            "type" : "tub",
+            "position": {
+                "x": 10, 
+                "y": 40
+            }
+        
+        }
+    ]
+}

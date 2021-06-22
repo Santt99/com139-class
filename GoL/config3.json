@@ -37,58 +37,26 @@
         
         },
         {
-            "type" : "block",   
-            "position": {
-                "x": 12, 
-                "y": 22
-            }
-        
-        },
-        {
-            "type" : "beehive",
-            "position": {
-                "x": 28, 
-                "y": 12
-            }
-        
-        },
-        {
-            "type" : "loaf",
-            "position": {
-                "x": 20, 
-                "y": 12
-            }
-        
-        },
-        {
-            "type" : "glider",
+            "type" : "boat",
             "position": {
                 "x": 25, 
-                "y": 5
+                "y": 8
             }
         
         },
         {
-            "type" : "beehive",
+            "type" : "beacon",
             "position": {
-                "x": 22, 
-                "y": 22
+                "x": 20, 
+                "y": 15
             }
         
         },
         {
             "type" : "loaf",
             "position": {
-                "x": 15, 
-                "y": 12
-            }
-        
-        },
-        {
-            "type" : "glider",
-            "position": {
-                "x": 15, 
-                "y": 5
+                "x": 10, 
+                "y": 10
             }
         
         }
