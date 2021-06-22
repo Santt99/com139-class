@@ -1,0 +1,16 @@
+{
+    "size" : {
+        "x": 100, 
+        "y": 100
+    },
+    "organisms": [
+        {
+            "type" : "beehive",
+            "position": {
+                "x": 100, 
+                "y": 100
+            }
+        
+        }
+    ]
+}
